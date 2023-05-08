@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Amit kumar",
+      "city": "noida",
+      "age": 24,
+      "email": "amit@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "rahul kumar",
+      "city": "noida2",
+      "age": 21,
+      "email": "rahul@gmail.com"
+    },
+    {
+      "name": "Rahulji",
+      "city": "agraji",
+      "age": "145",
+      "email": "rahulji@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "arnav",
+      "city": "gkp2",
+      "age": "12",
+      "email": "arna@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "aa",
+      "city": "sff",
+      "age": "22",
+      "email": "f@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "Amit singh",
+      "city": "noida",
+      "age": "66",
+      "email": "asjdkaigg@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "raj ",
+      "city": "gkp",
+      "age": "33",
+      "email": "rks@gmail.com",
+      "id": 7
+    }
+  ]
+}
